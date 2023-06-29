@@ -1,2 +1,2 @@
 # GulkanaGPR
-Gulkana GPR Data Processing
+Gulkana Glacier GPR Data Processing
